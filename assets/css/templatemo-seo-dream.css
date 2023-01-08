@@ -899,7 +899,7 @@ Banner Style
 }
 
 .main-banner .left-content h2 {
-  border-top: 1px solid #eee;
+  /* border-top: 1px solid #eee; */
   margin-top: 30px;
   padding-top: 20px;
   margin-bottom: 45px;
@@ -975,11 +975,19 @@ Features Style
 }
 
 .first-feature:hover .icon {
-  background-image: url(../images/features-icon-white-01.png);
+  background-image: url(../images/shipping_63x63.png);
 }
 
 .second-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
+  background-image: url(../images/fast-time-63x63.png);
+}
+
+.third-feature:hover .icon {
+  background-image: url(../images/planning63x63.png);
+}
+
+.fourth-feature:hover .icon {
+  background-image: url(../images/contract63x63.png);
 }
 
 .features-item .number h6 {
@@ -998,27 +1006,35 @@ Features Style
 }
 
 .features-item .first-number h6 {
-  background-image: url(../images/features-number-01.png);
+  /* background-image: url(../images/features-number-01.png); */
 }
 
 .features-item .second-number h6 {
-  background-image: url(../images/features-number-02.png);
+  /* background-image: url(../images/features-number-02.png); */
 }
 
 .features-item .third-number h6 {
-  background-image: url(../images/features-number-03.png);
+  /* background-image: url(../images/features-number-03.png); */
 }
 
 .features-item .fourth-number h6 {
-  background-image: url(../images/features-number-04.png);
+  /* background-image: url(../images/features-number-04.png); */
 }
 
 .first-feature .icon {
-  background-image: url(../images/features-icon-black-01.png);
+  background-image: url(../images/shipping_63x63.png);
 }
 
 .second-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/fast-time-63x63.png);
+}
+
+.third-feature .icon {
+  background-image: url(../images/planning63x63.png);
+}
+
+.fourth-feature .icon {
+  background-image: url(../images/contract63x63.png);
 }
 
 .features-item .icon {
