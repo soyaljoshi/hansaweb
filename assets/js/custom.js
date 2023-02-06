@@ -101,6 +101,8 @@
 
 
 
+
+
 	// Page loading animation
 	 $(window).on('load', function() {
 
